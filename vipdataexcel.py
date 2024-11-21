@@ -2,7 +2,7 @@ import requests
 import json
 import pandas as pd
 
-# Define your Mist API credentials and organization/site IDs
+# Define your Mist API credentials and organization/SiteIDs
 api_token = 'xh9oBdbYQllXCmCh5Ad63h3Y3enrewPWrDD37XpYA5f1ealYTPJQEb2FMkmo0DBi9vFIiLJpNlHd6fM95Zog8e0NldKTnOol'
 org_id = '15e7597e-9b06-4381-8443-16aba95c5e0d'
 site_id = '7ddd12b8-7ecf-451f-9f52-88b3b7ae30c3'
